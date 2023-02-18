@@ -1,3 +1,6 @@
 /****** PLACE YOUR CUSTOM STYLES HERE ******/
 .basestyle { font-family: 'Lato'; font-weight: 300; font-size:19px; }
+.baseprint { font-family: 'Lato'; font-weight: 400; }
+.bascolor { color: #000000; }
+.basebtn { font-family: 'Raleway'; font-weight: 700; }
 .headstyle { font-family: 'Raleway'; font-weight: 300; }
